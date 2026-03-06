@@ -1,10 +1,10 @@
 Markdown:
 
-# Privacy Policy for [Your App Name]
+# Privacy Policy for Schedule 1 Recipe Search App
 
 **Last Updated: March 5, 2026**
 
-This Privacy Policy describes how **[Your Company/Name]** ("we," "us," or "our") handles information in connection with the **[Your App Name]** mobile application (the "App"). We are committed to protecting your privacy and ensuring a transparent user experience.
+This Privacy Policy describes how **[The CT AppsnGames]** ("we," "us," or "our") handles information in connection with the **[Schedule 1 Recipe Search Appe]** mobile application (the "App"). We are committed to protecting your privacy and ensuring a transparent user experience.
 
 ---
 
@@ -37,7 +37,7 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 ### 7. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at: **[Your Email Address]**.
+If you have any questions about this Privacy Policy, please contact us at: **[tamchdo@gmail.com]**.
 
 ---
 
